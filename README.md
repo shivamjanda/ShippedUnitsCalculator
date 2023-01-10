@@ -1,5 +1,5 @@
 # ShippedUnitsCalculator
 
-Average united shipped calculator
+Average units shipped calculator
 
 Languages and Frameworks: C#
